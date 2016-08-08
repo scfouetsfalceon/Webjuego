@@ -2,7 +2,8 @@ Desafio Scout I
 ===
 
 Juego de preguntas referentes al Escultismo en Venezuela y el Mundo.
-Basado en el proyecto de CoderHuse https://github.com/CoderHouse/quizzer
+
+* Basado en el proyecto de CoderHuse https://github.com/CoderHouse/quizzer
 
 Posibles tecnologias a utilizar:
 * JavaScrip
