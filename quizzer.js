@@ -50,7 +50,7 @@ var questions = [
 		1
 	],
 	[
-		"<img src='image/img04.jpg'><br><small>¿Qué hecho trascendente del la Historia del Escultismo se muestra en la imagen?</small>",
+		"<img src='image/img04.jpg'><br><small>¿Qué hecho trascendente en la Historia del Escultismo se muestra en la imagen?</small>",
 		"El Campamento de Brownsea",
 		"La Guerra de los Matabeles",
 		"El Sitio de Mafeking",
@@ -116,7 +116,7 @@ var questions = [
 	[
 		"¿Cuales fueron las primeras patrullas del Mundo?",
 		"Toros, Chorlitos, Lobos y Cuervos",
-		"Zooros, Toros, Lobos y Murciélagos",
+		"Zorros, Toros, Lobos y Murciélagos",
 		"Chorlitos, Toros, Bulldogs y Cuervos",
 		"Caballos, Toros, Lobos y Cuervos",
 		0
@@ -155,7 +155,7 @@ var questions = [
 	],
 	[
 		"<img src='image/img10.jpg'><br>¿Qué constelación se muestra?",
-		"las Pléyades",
+		"Las Pléyades",
 		"Pikachú",
 		"La Osa Mayor",
 		"Orión",
