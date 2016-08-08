@@ -19,11 +19,8 @@ button {
 	background-color: #622599;
 }
 
-h1 {
-	font-size: 2rem;
-}
 h2 {
-	font-size: 1.3rem;
+	font-weight: 200;
 }
 
 header .title {
@@ -165,3 +162,16 @@ button.start {
 	margin: 0 auto 20px auto;
 	color: #fff;
 }
+
+.lead {
+  margin-bottom: 20px;
+  font-size: 1.7rem;
+  line-height: 0.9;
+}
+@media (min-width: 768px) {
+  .lead {
+    font-size: 2rem;
+  }
+}
+.small {
+  font-size: 150%;
