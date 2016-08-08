@@ -18,6 +18,14 @@ var questions = [
 		2
 	],
 	[
+		"¿Cual de estas señales indica peligro/riesgo?",
+		"<img src='image/img01.png'>",
+		"<img src='image/img02.png'>",
+		"<img src='image/img03.png'>",
+		"Ninguna de las anteriores",
+		1
+	],
+	[
 		"¿Qué artículo de la Ley es 'El Scout canta y sonríe en sus dificultades'?",
 		"Cuarto",
 		"Noveno",
@@ -26,13 +34,13 @@ var questions = [
 		3
 	],
 	[
-		"¿Cual de estas señales indica peligro/riesgo?",
-		"<img src='image/img01.png'>",
-		"<img src='image/img02.png'>",
-		"<img src='image/img03.png'>",
-		"Ninguna de las anteriores",
-		1
-	],
+		"<img src='image/img11.jpg'><br>¿Qué formación se indica en la figura?",
+		"Estrella",
+		"Formación en V",
+		"Formación en Y",
+		"Filas por patrullas",
+		0
+	],	
 	[
 		"¿El primer Jamboree Mundial fue el de?",
 		"Mafeking en 1913",
