@@ -106,6 +106,14 @@ var questions = [
 		0
 	],
 	[
+		"<img src='image/img09.jpg'><br>¿Qué pañoleta es esta?",
+		"Comisionado Regional",
+		"Jamboree Nacional",
+		"Delegación Nacional",
+		"Regional de Falcón",
+		2
+	],
+	[
 		"¿Cuál fué el primer país de América en tener Asociación Scout?",
 		"Estados Unidos",
 		"Argentina",
@@ -128,6 +136,14 @@ var questions = [
 		"2015",
 		"Aún no se celebra",
 		1
+	],
+	[
+		"<img src='image/img10.jpg'><br>¿Qué constelación se muestra?",
+		"las Pléyades",
+		"Pikachú",
+		"La Osa Mayor",
+		"Orión",
+		3
 	],
 ];
 
