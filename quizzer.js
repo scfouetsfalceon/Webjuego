@@ -90,6 +90,14 @@ var questions = [
 		1
 	],
 	[
+		"<img src='image/img12.jpg'><br>¿Cómo se llama eso que está tocando B-P?",
+		"Cuerno de Caribú",
+		"Cuerno de Kudú",
+		"Cuerno de la Abundancia",
+		"Burbusela",
+		1
+	],
+	[
 		"¿Cada cuanto se celebra el JOTA-JOTI",
 		"Cada 4 años",
 		"Cada 3 años",
