@@ -1,7 +1,7 @@
 Desafio Scout I
 ===
 
-Juego de preguntas referentes al Escultismo.
+Juego de preguntas referentes al Escultismo en Venezuela y el Mundo.
 Basado en el proyecto https://github.com/CoderHouse/quizzer
 
 Posibles tecnologias a utilizar:
