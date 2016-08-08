@@ -1,0 +1,167 @@
+
+body {
+	color: #444;
+	background-color: #9B30FF;
+	margin: 0;
+	font-family: 'Open sans', sans-serif;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+button {
+	border: none;
+	border-radius: 6px;
+	padding: 10px 20px;
+	font-size: 1.2rem;
+	color: #fff;
+	background-color: #622599;
+}
+
+h1 {
+	font-size: 2rem;
+}
+h2 {
+	font-size: 1.3rem;
+}
+
+header .title {
+	background-color: #622599;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+}
+
+header h1, header h2 {
+	margin: 0;
+}
+
+header div.countdown {
+	float: right;
+}
+
+header div.points {
+	float: left;
+	-webkit-transition: color 0.5s;
+    transition: color 0.5s;
+}
+
+header div.points.animate.right {
+	color: #767D76;
+}
+
+header div.points.animate.wrong {
+	color: #bf0000;
+}
+
+header div.countdown, header div.points {
+	font-weight: bold;
+	margin: 10px;
+	color: #fff;
+	padding: 0px;
+	font-size: 1.5rem;
+}
+
+.card {
+	max-width: 700px;
+	background-color: #fff;
+	margin: 39px auto 20px auto;
+	border-radius: 6px;
+	text-align: center;
+	padding: 15px;
+}
+
+div.start .card {
+	display: block;
+}
+
+div.start .card p, .question.card span.question {
+	font-size: 25px;
+}
+
+.card.question {
+	display: none;
+}
+
+.card.question.active {
+	display: block;
+}
+
+.card.question .options {
+	padding: 0;
+	list-style: none;
+	margin-top: 35px;
+}
+
+.card.question .options > li {
+	margin: 10px 5%;
+}
+
+.card.question .options > li label {
+	background-color: #7ED2CF;
+	display: block;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+.card.question .options > li label:hover {
+	background-color: #8EE8E5;
+}
+
+.card.question .options > li input:checked + label {
+	background-color: #4D8E8C !important;
+	color: #fff;
+}
+
+.card.question .options > li input {
+	opacity: 0;
+	display: none;
+}
+
+.comenzar {
+	color: #622599;
+	font-weight: bold;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+.finish {
+	display: none;
+}
+
+.card.finish p {
+	font-size: 1.5rem;
+}
+
+.card.finish .final_points {
+	font-size: 2rem;
+	font-weight: bolder;
+}
+
+.play_again,
+button.start {
+	max-width: 400px;
+	margin: 0 auto 20px auto;
+	color: #fff;
+}
