@@ -113,7 +113,6 @@ img {
 
 
 .card {
-	max-width: 700px;
 	background-color: #fff;
 	margin: 39px auto 20px auto;
 	border-radius: 6px;
@@ -185,7 +184,7 @@ div.start .card p, .question.card span.question {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  max-width: 480px;
+  max-width: 600px;
 }
 
 .finish {
