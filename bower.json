@@ -1,0 +1,23 @@
+{
+  "name": "desafioscout",
+  "homepage": "https://github.com/scoutsfalcon/Webjuego",
+  "authors": [
+    "Enrique Valerio <comisionado.falcon@gmail.com>"
+  ],
+  "description": "Juego de Preguntas Scout",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "underscore": "^1.8.3"
+  }
+}

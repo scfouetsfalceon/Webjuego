@@ -2,7 +2,7 @@ body {
 	color: #333;
 	margin: 0;
 	font-family: 'Open sans', fantasy;
-	background-image: url('image/fondo.svg');
+	background-image: url('../image/fondo.svg');
 	background-color: #8057e0;
 }
 
@@ -209,6 +209,7 @@ div.start .card p, .question.card span.question {
 }
 
 .play_again,
+a.start,
 button.start {
 	max-width: 400px;
 	margin: 0 auto 20px auto;
