@@ -158,6 +158,12 @@ div.start .card p, .question.card span.question {
 	display: none;
 }
 
+.fogata {
+	height: 77px;
+	width: auto;
+	margin-left: 8%;
+}
+
 .fondo {
 	background: #8057e0;
 	background: -moz-linear-gradient(top, #8057e0 0%, #e5d9f9 70%, #622599 71%, #622599 100%);
