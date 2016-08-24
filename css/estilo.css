@@ -1,9 +1,11 @@
+html {
+	font-size: 15px;
+}
+
 body {
 	color: #333;
 	margin: 0;
-	font-family: 'Open sans', fantasy;
-	background-image: url('../image/fondo.svg');
-	background-color: #161650;
+	font-family: 'Farsan', cursive;
 }
 
 * {
@@ -67,6 +69,10 @@ img {
   	margin-left: auto;
   	vertical-align: middle;
   	-ms-interpolation-mode: bicubic;
+}
+
+p {
+	font-size: 1.5rem;
 }
 
 .botoninicio {
@@ -171,6 +177,10 @@ div.start .card p, .question.card span.question {
 	background: linear-gradient(to bottom, #8057e0 0%,#e5d9f9 70%,#622599 71%,#622599 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8057e0', endColorstr='#622599',GradientType=0 );
 }
+.fondocarpa {
+	background-image: url('../image/fondo.svg');
+	background-color: #161650;
+}
 
 .card.finish p {
 	font-size: 1.3rem;
@@ -230,25 +240,7 @@ button.start {
 }
 
 #titular h2{
-	font-size: 3rem;
-	text-align: center; 
-	color:#FFFFFF;
-	text-shadow: 0 1px 0 #ccc,
-	0 1px 0 #c9c9c9,
-	0 2px 0 #bbb,
-	0 3px 0 #b9b9b9,
-	0 4px 0 #aaa,
-	0 6px 1px rgba(0,0,0,.1),
-	0 0 5px rgba(0,0,0,.1),
-	0 1px 3px rgba(0,0,0,.3),
-	0 3px 5px rgba(0,0,0,.2),
-	0 5px 10px rgba(0,0,0,.25),
-	0 10px 10px rgba(0,0,0,.2),
-	0 20px 20px rgba(0,0,0,.15);
-}
-
-#titular p{
-	font-size: 2rem;
+	font-size: 2.8rem;
 	text-align: center;
 	color:#FFFFFF;
 	text-shadow: 
@@ -261,4 +253,3 @@ button.start {
 	0 5px 10px rgba(0,0,0,.25),
 	0 20px 20px rgba(0,0,0,.15);
 }
-
