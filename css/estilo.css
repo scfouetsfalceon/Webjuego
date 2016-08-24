@@ -5,7 +5,7 @@ html {
 body {
 	color: #333;
 	margin: 0;
-	font-family: 'Farsan', cursive;
+	font-family: 'Farsan', sans-serif;
 }
 
 * {
@@ -88,10 +88,10 @@ p {
 .card {
 	background-color: #fff;
 	margin: 39px auto 20px auto;
-	border-radius: 6px;
+	border-radius: 5px;
 	text-align: center;
 	padding: 15px;
-	opacity: 0.9;
+	opacity: 0.8;
 }
 
 div.start .card {
@@ -99,7 +99,7 @@ div.start .card {
 }
 
 div.start .card p, .question.card span.question {
-	font-size: 1.8rem;
+	font-size: 1.6rem;
 }
 
 .card.question {
@@ -114,6 +114,7 @@ div.start .card p, .question.card span.question {
 	padding: 0;
 	list-style: none;
 	margin-top: 35px;
+	font-size: 1.4rem;
 }
 
 .card.question .options > li {
@@ -182,6 +183,11 @@ div.start .card p, .question.card span.question {
 	background-color: #161650;
 }
 
+.insignia {
+	width: 15rem;
+	height: auto;
+}
+
 .card.finish p {
 	font-size: 1.3rem;
 }
@@ -194,9 +200,14 @@ div.start .card p, .question.card span.question {
 .play_again,
 a.start,
 button.start {
-	max-width: 400px;
+	background-color: transparent;
+	max-width: 250px;
 	margin: 0 auto 20px auto;
-	color: #fff;
+	color: #622599;
+}
+button.start:hover {
+	max-width: 248px;
+	opacity: 0.9;
 }
 
 .lead {
