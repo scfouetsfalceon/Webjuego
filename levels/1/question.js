@@ -48,7 +48,7 @@ var questions = [
 		1
 	],
 	[
-		"<img src='image/img04.jpg'><br><small>¿Qué hecho trascendente en la Historia del Escultismo se muestra en la imagen?</small>",
+		"<img src='image/img04.jpg'><br>¿A qué hecho trascendente del Escultismo se refiere la imagen?",
 		"El Campamento de Brownsea",
 		"La Guerra de los Matabeles",
 		"El Sitio de Mafeking",
@@ -72,7 +72,7 @@ var questions = [
 		1
 	],
 	[
-		"<img src='image/img05.jpg'><br><small>¿Qué tipo de herida es esta?</small>",
+		"<img src='image/img05.jpg'><br>¿Qué tipo de herida es esta?",
 		"Punzada",
 		"Contusión",
 		"Abrasión",
@@ -104,7 +104,7 @@ var questions = [
 		3
 	],
 	[
-		"<img src='image/semaforo.gif'><br><small>¿Qué dice el mensaje?</small>",
+		"<img src='image/semaforo.gif'><br>¿Qué dice el mensaje?",
 		"Coro",
 		"Casa",
 		"Hora",
