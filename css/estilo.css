@@ -14,17 +14,17 @@ body {
 
 button {
   border: none;
-  border-radius: 6px;
+  border-radius: 50px;
   padding: 10px 20px;
   font-size: 1.6rem;
   font-family:'Dekko', cursive;
   color: #fff;
-  background-color: #622599;
+  background-color: #2D5016;
 }
 
 button:hover {
   color: #666;
-  background-color: #4E1B89;
+  background-color: #1C4202;
 
 }
 
@@ -94,11 +94,11 @@ p {
 
 .card {
 	background-color: #fff;
-	margin: 39px auto 20px auto;
+	margin: 25px auto 10px auto;
 	border-radius: 5px;
 	text-align: center;
-	padding: 15px;
-	opacity: 0.8;
+	padding: 10px;
+	opacity: 0.9;
 }
 
 div.start .card {
@@ -120,8 +120,8 @@ div.start .card p, .question.card span.question {
 .card.question .options {
 	padding: 0;
 	list-style: none;
-	margin-top: 35px;
-	font-size: 1.5rem;
+	margin-top: 15px;
+	font-size: 1.6rem;
 }
 
 .card.question .options > li {
@@ -190,6 +190,11 @@ div.start .card p, .question.card span.question {
   background-image: url('../image/fondo.svg');
   background-color: #161650;
 }
+/*!
+ * background-color: #7F57DE;  para el día, aparece el Sol.
+ * background-color: #161650;  Para la tarde y noche, aparece la luna y la fogata
+ */
+
 
 .insignia {
 	width: 10rem;
@@ -230,6 +235,14 @@ button.start:hover {
 }
 .small {
   font-size: 0.9rem;
+}
+
+.pull-right {
+  float: right;
+}
+
+.pull-left {
+  float: left;
 }
 
 .text-center {
