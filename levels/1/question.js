@@ -8,7 +8,7 @@ var questions = [
 		2
 	],
 	[
-		"¿Quien fundó el Movimiento Scout?",
+		"<img src='image/img_z.png'><br>¿Quien fundó el Movimiento Scout?",
 		"Ramón Ocando Pérez",
 		"Lady Olave Baden-Powell",
 		"Robert Baden-Powell",
@@ -24,7 +24,7 @@ var questions = [
 		1
 	],
 	[
-		"¿Qué artículo de la Ley es 'El Scout canta y sonríe en sus dificultades'?",
+		"<img src='image/img_z.png'><br>¿Qué artículo de la Ley es 'El Scout canta y sonríe en sus dificultades'?",
 		"Cuarto",
 		"Noveno",
 		"Quinto",
@@ -40,7 +40,7 @@ var questions = [
 		0
 	],	
 	[
-		"¿El primer Jamboree Mundial fue el de?",
+		"<img src='image/img_z.png'><br>¿El primer Jamboree Mundial fue el de?",
 		"Mafeking en 1913",
 		"Olimpia en 1920",
 		"Copenhague en 1924",
@@ -56,7 +56,7 @@ var questions = [
 		2
 	],
 	[
-		"¿Cómo se llamó la 1º Tropa Scout de Venezuela?",
+		"<img src='image/img_z.png'><br>¿Cómo se llamó la 1º Tropa Scout de Venezuela?",
 		"San Jorge",
 		"Catatumbo",
 		"San Sebastián",
@@ -64,7 +64,7 @@ var questions = [
 		2
 	],
 	[
-		"¿En qué año se llevó a cabo en Campamento de Brownsea?",
+		"<img src='image/img_z.png'><br>¿En qué año se llevó a cabo en Campamento de Brownsea?",
 		"1857",
 		"1907",
 		"1913",
@@ -80,7 +80,7 @@ var questions = [
 		2
 	],
 	[
-		"¿En qué ciudad se inció el Movimiento Scout en Venezuela?",
+		"<img src='image/img_z.png'><br>¿En qué ciudad se inció el Movimiento Scout en Venezuela?",
 		"Maracay",
 		"Maracaibo",
 		"Caracas",
@@ -96,7 +96,7 @@ var questions = [
 		1
 	],
 	[
-		"¿Cada cuanto se celebra el JOTA-JOTI",
+		"<img src='image/img_z.png'><br>¿Cada cuanto se celebra el JOTA-JOTI",
 		"Cada 4 años",
 		"Cada 3 años",
 		"Cada 2 años",
@@ -112,7 +112,7 @@ var questions = [
 		3
 	],
 	[
-		"¿Cuales fueron las primeras patrullas del Mundo?",
+		"<img src='image/img_z.png'><br>¿Cuales fueron las primeras patrullas del Mundo?",
 		"Toros, Chorlitos, Lobos y Cuervos",
 		"Zorros, Toros, Lobos y Murciélagos",
 		"Chorlitos, Toros, Bulldogs y Cuervos",
@@ -128,7 +128,7 @@ var questions = [
 		2
 	],
 	[
-		"¿Cuál fué el primer país de América en tener Asociación Scout?",
+		"<img src='image/img_z.png'><br>¿Cuál fué el primer país de América en tener Asociación Scout?",
 		"Estados Unidos",
 		"Argentina",
 		"Chile",
@@ -144,7 +144,7 @@ var questions = [
 		0
 	],
 	[
-		"¿Cuándo fue el Centenario de la Asociación Scout de Venezuela?",
+		"<img src='image/img_z.png'><br>¿Cuándo fue el Centenario de la Asociación Scout de Venezuela?",
 		"2007",
 		"2013",
 		"2015",
